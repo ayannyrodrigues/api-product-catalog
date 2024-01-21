@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProductCatalog.Infrastructure.Context;
 
@@ -11,9 +12,10 @@ using ProductCatalog.Infrastructure.Context;
 namespace ProductCatalog.Infrastructure.Migrations
 {
     [DbContext(typeof(ProductCatalogDbContext))]
-    partial class ProductCatalogDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240121160051_ToInsertDataIntoProductTable")]
+    partial class ToInsertDataIntoProductTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
