@@ -15,3 +15,5 @@ E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\bi
 E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\bin\Debug\net6.0\ProductCatalog.Domain.pdb
 E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\obj\Debug\net6.0\ProductCatalog.Infrastructure.csproj.AssemblyReference.cache
 E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\obj\Debug\net6.0\ProductCatalog.Infrastructure.csproj.CopyComplete
+E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\bin\Debug\net6.0\ProductCatalog.Infrastructure.runtimeconfig.json
+E:\curso-dotnet\web-api\projetos\ProductCatalog\ProductCatalog.Infrastructure\obj\Debug\net6.0\ProductCatalog.Infrastructure.genruntimeconfig.cache
